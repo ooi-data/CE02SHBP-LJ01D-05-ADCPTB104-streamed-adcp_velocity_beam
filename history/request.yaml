@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_velocity_beam
+last_request: '2021-12-28T23:10:54.454281Z'
+response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_velocity_beam/main/history/response.json
+status: pending
