@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_velocity_beam
 data_stream: CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_velocity_beam
 end_date: '2022-02-07T19:35:08.183Z'
-last_updated: '2022-02-10T17:57:24.821335Z'
+last_updated: '2022-02-11T06:41:42.776693'
 start_date: '2014-09-25T18:10:07.730Z'
-status: pending
+status: failed
